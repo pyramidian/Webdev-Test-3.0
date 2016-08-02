@@ -61,7 +61,7 @@ html {
 body {
   color: #515151;
   background-color: #DEE7E4;
-  background: url("http://blogs-images.forbes.com/jvchamary/files/2016/05/harambe_gorilla-1200x800.jpg");
+  background: url("http://blogs-images.forbes.com/jvchamary/files/2016/05/harambe_gorilla-1200x800.jpg") 100%; 
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
