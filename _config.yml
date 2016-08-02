@@ -1,0 +1,27 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:               Miku.PWM
+tagline:             Rem fanclub
+description:         Fang makes stuff.
+url:                 brushlessmiku.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Fangzhou Yu
+  url:              ''
+  email:             fangzhou.yu@stonybrook.edu
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
