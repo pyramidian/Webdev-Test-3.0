@@ -150,9 +150,9 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  /*color: rgba(255,255,255,.6);*/
-  background-color: #227487;
+  color: rgba(255,255,255,.6);
   background-image: url("http://orig13.deviantart.net/9acb/f/2012/338/9/1/_render__chibi_miku_san_render_8_by_i_am_kayoy-d5n1ezn.png") no-repeat;
+  background-color: #227487;
   background-size: contain;
   background-position: center bottom;
   -webkit-transition: all .3s ease-in-out;
