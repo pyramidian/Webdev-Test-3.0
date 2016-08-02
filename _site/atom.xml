@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Miku.PWM</title>
+ <link href="brushlessmiku.github.io/atom.xml" rel="self"/>
+ <link href="brushlessmiku.github.io/"/>
+ <updated>2016-08-01T21:28:15-07:00</updated>
+ <id>brushlessmiku.github.io</id>
+ <author>
+   <name>Fangzhou Yu</name>
+   <email>fangzhou.yu@stonybrook.edu</email>
+ </author>
+
+ 
+ <entry>
+   <title>Rem</title>
+   <link href="brushlessmiku.github.io/2016/08/01/Rem/"/>
+   <updated>2016-08-01T00:00:00-07:00</updated>
+   <id>brushlessmiku.github.io/2016/08/01/Rem</id>
+   <content type="html">&lt;p&gt;Rem waifu is best girl.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;#foreverRem&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+
+</feed>
