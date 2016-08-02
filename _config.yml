@@ -11,6 +11,7 @@ description:         Fang makes stuff.
 home:				 http://pyramidian.github.io
 url:                 http://pyramidian.github.io/Webdev-test-3.0
 baseurl:             /Webdev-test-3.0/
+nodeurl:             /Webdev-test-3.0/
 paginate:            5
 
 # About/contact
